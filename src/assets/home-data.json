@@ -1,0 +1,49 @@
+{
+  "home-data": [
+    {
+      "imageUrl": "https://images-cn.ssl-images-amazon.cn/images/I/619VfdTsmsL._SX3000_.jpg",
+      "skipHref": "",
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/CN-hq/2021/img/Amazon_Global_Services_AGS/XCM_CUTTLE_1345566_1763667_CN_3945701_200x200_1X_zh_CN._CB664074478_.jpg"
+    },
+    {
+      "imageUrl": "https://images-cn.ssl-images-amazon.cn/images/I/61esh9qO2pL._SX3000_.jpg",
+      "skipHref": "",
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/CN-hq/2021/img/X_Site/XCM_Manual_ORIGIN_1315875_1624187_CN_ce_3763361_200x200_1X_zh_CN._CB657442145_.jpg"
+    },
+    {
+      "imageUrl": "https://images-cn.ssl-images-amazon.cn/images/I/51P7ca0k0NL._SX3000_.jpg",
+      "skipHref": "",
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/CN-hq/2021/img/X_Site/XCM_Manual_ORIGIN_1315875_1624187_CN_home_3763363_200x200_1X_zh_CN._CB657442145_.jpg"
+    },
+    {
+      "imageUrl": "https://images-cn.ssl-images-amazon.cn/images/I/61SlkNcTueL._SX3000_.jpg",
+      "skipHref": "",
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/CN-hq/2021/img/X_Site/XCM_Manual_ORIGIN_1315875_1624187_CN_baby_3763365_200x200_1X_zh_CN._CB657442145_.jpg"
+    },
+    {
+      "imageUrl": "https://images-cn.ssl-images-amazon.cn/images/I/61Ztjg0f3iL._SX3000_.jpg",
+      "skipHref": "",
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/heyinan/2021/Gateway/XCM_CUTTLE_1345281_1762526_CN_3943908_200x200_1X_zh_CN._CB664214294_.jpg"
+    },
+    {
+      "imageUrl": "https://images-cn.ssl-images-amazon.cn/images/I/61IrQfvTALL._SX3000_.jpg",
+      "skipHref": "",
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/CN-hq/2021/img/Amazon_Global_Services_AGS/XCM_CUTTLE_1345570_1763674_CN_3945739_200x200_1X_zh_CN._CB664069766_.jpg"
+    },
+    {
+      "imageUrl": "",
+      "skipHref": "",
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/heyinan/2022/Outlets_upgrade/XCM_Manual_1397368_4430017_CN_yl_outles_shortcut_200x200_2X._CB648937247_.jpg"
+    },
+    {
+      "imageUrl": "",
+      "skipHref": "",
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/CN-hq/2021/img/X_Site/XCM_Manual_ORIGIN_1315875_1624187_CN_ags_3763355_200x200_1X_zh_CN._CB657442145_.jpg"
+    },
+    {
+      "imageUrl": "",
+      "skipHref": "",
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/Xiaominwang/kindle/GW_DesktopShoveler_200x200._CB657448068_.jpg"
+    }
+  ]
+}
