@@ -1,49 +1,366 @@
 {
   "home-data": [
     {
+      "imageUrl": "https://images-cn.ssl-images-amazon.cn/images/I/71sCWS3H16L._SX3000_.jpg",
+      "skipHref": ""
+    },
+    {
       "imageUrl": "https://images-cn.ssl-images-amazon.cn/images/I/619VfdTsmsL._SX3000_.jpg",
-      "skipHref": "",
-      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/CN-hq/2021/img/Amazon_Global_Services_AGS/XCM_CUTTLE_1345566_1763667_CN_3945701_200x200_1X_zh_CN._CB664074478_.jpg"
+      "skipHref": ""
     },
     {
       "imageUrl": "https://images-cn.ssl-images-amazon.cn/images/I/61esh9qO2pL._SX3000_.jpg",
-      "skipHref": "",
-      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/CN-hq/2021/img/X_Site/XCM_Manual_ORIGIN_1315875_1624187_CN_ce_3763361_200x200_1X_zh_CN._CB657442145_.jpg"
+      "skipHref": ""
     },
     {
       "imageUrl": "https://images-cn.ssl-images-amazon.cn/images/I/51P7ca0k0NL._SX3000_.jpg",
-      "skipHref": "",
-      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/CN-hq/2021/img/X_Site/XCM_Manual_ORIGIN_1315875_1624187_CN_home_3763363_200x200_1X_zh_CN._CB657442145_.jpg"
+      "skipHref": ""
     },
     {
       "imageUrl": "https://images-cn.ssl-images-amazon.cn/images/I/61SlkNcTueL._SX3000_.jpg",
-      "skipHref": "",
-      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/CN-hq/2021/img/X_Site/XCM_Manual_ORIGIN_1315875_1624187_CN_baby_3763365_200x200_1X_zh_CN._CB657442145_.jpg"
+      "skipHref": ""
     },
     {
       "imageUrl": "https://images-cn.ssl-images-amazon.cn/images/I/61Ztjg0f3iL._SX3000_.jpg",
-      "skipHref": "",
-      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/heyinan/2021/Gateway/XCM_CUTTLE_1345281_1762526_CN_3943908_200x200_1X_zh_CN._CB664214294_.jpg"
+      "skipHref": ""
     },
     {
       "imageUrl": "https://images-cn.ssl-images-amazon.cn/images/I/61IrQfvTALL._SX3000_.jpg",
-      "skipHref": "",
-      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/CN-hq/2021/img/Amazon_Global_Services_AGS/XCM_CUTTLE_1345570_1763674_CN_3945739_200x200_1X_zh_CN._CB664069766_.jpg"
+      "skipHref": ""
+    }
+  ],
+  "TreasureOfZhendian": [
+    {
+      "TreasureOfZhendian": "https://images-cn.ssl-images-amazon.cn/images/I/4141YLzXn-L._AC_SY200_.jpg",
+      "title": "今日特惠 镇店之宝"
     },
     {
-      "imageUrl": "",
-      "skipHref": "",
-      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/heyinan/2022/Outlets_upgrade/XCM_Manual_1397368_4430017_CN_yl_outles_shortcut_200x200_2X._CB648937247_.jpg"
+      "TreasureOfZhendian": "https://images-cn.ssl-images-amazon.cn/images/I/41zkQFtvxDL._AC_SY200_.jpg",
+      "title": ""
     },
     {
-      "imageUrl": "",
-      "skipHref": "",
-      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/CN-hq/2021/img/X_Site/XCM_Manual_ORIGIN_1315875_1624187_CN_ags_3763355_200x200_1X_zh_CN._CB657442145_.jpg"
+      "TreasureOfZhendian": "https://images-cn.ssl-images-amazon.cn/images/I/41mRHbKEK+L._AC_SY200_.jpg",
+      "title": ""
     },
     {
-      "imageUrl": "",
-      "skipHref": "",
-      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/Xiaominwang/kindle/GW_DesktopShoveler_200x200._CB657448068_.jpg"
+      "TreasureOfZhendian": "https://images-cn.ssl-images-amazon.cn/images/I/511gg3Z1OCL._AC_SY200_.jpg",
+      "title": ""
+    },
+    {
+      "TreasureOfZhendian": "https://images-cn.ssl-images-amazon.cn/images/I/31xAh4I3CAS._AC_SY200_.jpg",
+      "title": ""
+    },
+    {
+      "TreasureOfZhendian": "https://images-cn.ssl-images-amazon.cn/images/I/41XsbzaDnnL._AC_SY200_.jpg",
+      "title": ""
+    },
+    {
+      "TreasureOfZhendian": "https://images-cn.ssl-images-amazon.cn/images/I/414HqVvwb1L._AC_SY200_.jpg",
+      "title": ""
+    },
+    {
+      "TreasureOfZhendian": "https://images-cn.ssl-images-amazon.cn/images/I/31T5F7nsihL._AC_SY200_.jpg",
+      "title": ""
+    },
+    {
+      "TreasureOfZhendian": "https://images-cn.ssl-images-amazon.cn/images/I/31D5C0UPb-L._AC_SY200_.jpg",
+      "title": ""
+    },
+    {
+      "TreasureOfZhendian": "https://images-cn.ssl-images-amazon.cn/images/I/31D5C0UPb-L._AC_SY200_.jpg",
+      "title": ""
+    }
+  ],
+  "guessYouLike": [
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.com/images/I/81U8xgYf-JL._AC_UL160_SR160,160_.jpg",
+      "title": "猜你喜欢"
+    },
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.com/images/I/71DXS6sJ2cS._AC_UL160_SR160,160_.jpg",
+      "title": ""
+    },
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.com/images/I/61H+lpBhTjL._UX300__PJku-sticker-v7,TopRight,0,-50_AC_UL160_SR160,160_.jpg",
+      "title": ""
+    },
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.com/images/I/71w1APdg9ML._AC_UL160_SR160,160_.jpg",
+      "title": ""
+    },
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.com/images/I/81NmZEQDn8L._AC_UL160_SR160,160_.jpg",
+      "title": ""
+    },
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.com/images/I/51e7M7WlZLL._AC_UL160_SR160,160_.jpg",
+      "title": ""
+    },
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.com/images/I/71SHdnBs2NL._AC_UL160_SR160,160_.jpg",
+      "title": ""
+    },
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.com/images/I/81pM+ZnlIbL._AC_UL160_SR160,160_.jpg",
+      "title": ""
+    },
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.com/images/I/514f-8qZ65L._AC_UL160_SR160,160_.jpg",
+      "title": ""
+    },
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.com/images/I/71RhlbxzWQL._AC_UL160_SR160,160_.jpg",
+      "title": ""
+    },
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.com/images/I/91Dc-ub-wvL._AC_UL160_SR160,160_.jpg",
+      "title": ""
+    },
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.com/images/I/41ZzK71mYbS._AC_UL160_SR160,160_.jpg",
+      "title": ""
+    },
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.com/images/I/71m3njuYn8L._AC_UL160_SR160,160_.jpg",
+      "title": ""
+    }
+  ],
+  "AllCategories": [
+    {
+      "label": "Kindle商店",
+      "value": 1
+    },
+    {
+      "label": "亚马逊海外购",
+      "value": 2
+    },
+    {
+      "label": "Kindle电子书",
+      "value": 3
+    },
+    {
+      "label": "游戏/娱乐",
+      "value": 4
+    },
+    {
+      "label": "手机/通讯",
+      "value": 5
+    },
+    {
+      "label": "摄影/摄像",
+      "value": 6
+    },
+    {
+      "label": "电子",
+      "value": 7
+    },
+    {
+      "label": "数码影音",
+      "value": 8
+    },
+    {
+      "label": "电脑/IT",
+      "value": 9
+    },
+    {
+      "label": "办公用品",
+      "value": 10
+    },
+    {
+      "label": "小家电",
+      "value": 11
+    },
+    {
+      "label": "大家电",
+      "value": 12
+    },
+    {
+      "label": "电视/音响",
+      "value": 13
+    },
+    {
+      "label": "家用",
+      "value": 14
+    },
+    {
+      "label": "家居",
+      "value": 15
+    },
+    {
+      "label": "厨具",
+      "value": 16
+    },
+    {
+      "label": "家居装修",
+      "value": 17
+    },
+    {
+      "label": "宠物用品",
+      "value": 18
+    },
+    {
+      "label": "食品",
+      "value": 19
+    },
+    {
+      "label": "酒",
+      "value": 20
+    },
+    {
+      "label": "美容化妆",
+      "value": 21
+    },
+    {
+      "label": "个护健康",
+      "value": 22
+    },
+    {
+      "label": "母婴用品",
+      "value": 23
+    },
+    {
+      "label": "玩具",
+      "value": 24
+    },
+    {
+      "label": "运动户外休闲",
+      "value": 25
+    },
+    {
+      "label": "服饰箱包",
+      "value": 26
+    },
+    {
+      "label": "鞋靴",
+      "value": 27
+    },
+    {
+      "label": "钟表",
+      "value": 28
+    },
+    {
+      "label": "珠宝首饰",
+      "value": 29
+    },
+    {
+      "label": "汽车用品",
+      "value": 30
+    },
+    {
+      "label": "乐器",
+      "value": 31
+    }
+  ],
+  "PreferredProducts": [
+    {
+      "PreferredProducts": "https://images-cn.ssl-images-amazon.cn/images/G/28/Yuzhe/GW/PC/ATF/SingleImageCard/Quad4_Deals_Coupon_186x116._SY116_CB621720691_.jpg",
+      "headerTitle": "今日特惠 同步全球 天天低价"
+    },
+    {
+      "PreferredProducts": "https://images-cn.ssl-images-amazon.cn/images/I/51GRwWHBMUL._SY160_.jpg",
+      "headerTitle": "优惠好券 省钱必逛"
+    },
+    {
+      "PreferredProducts": "https://images-cn.ssl-images-amazon.cn/images/G/28/Yuzhe/GW/PC/ATF/SingleImageCard/Quad2_Outlet_Selection_186x116._SY116_CB621709723_.jpg",
+      "headerTitle": "Prime会员专属9折优惠"
+    },
+    {
+      "PreferredProducts": "https://images-cn.ssl-images-amazon.cn/images/G/28/Yuzhe/GW/PC/ATF/SingleImageCard/Quad6_Prime_Exclusive_397x304._SY304_CB621721473_.jpg",
+      "headerTitle": "奥莱折扣低至1折"
+    },
+    {
+      "PreferredProducts": "https://images-cn.ssl-images-amazon.cn/images/G/28/Yuzhe/GW/PC/ATF/SingleImageCard/Quad3_Deals_US_186x116._SY116_CB621709866_.jpg",
+      "headerTitle": "Prime会员甄选"
+    },
+    {
+      "PreferredProducts": "https://images-cn.ssl-images-amazon.cn/images/G/28/Yuzhe/GW/PC/ATF/SingleImageCard/Quad7_ARC_Store_397x304._SY304_CB621721473_.jpg",
+      "headerTitle": "多买多省 2件95折 3件92折"
+    },
+    {
+      "PreferredProducts": "https://images-cn.ssl-images-amazon.cn/images/G/28/Yuzhe/GW/PC/ATF/SingleImageCard/Quad5_Deals_DOTD_397x304._SY304_CB621721473_.jpg",
+      "headerTitle": "四国精选 地道好货"
+    },
+    {
+      "PreferredProducts": "https://images-cn.ssl-images-amazon.cn/images/G/28/Yuzhe/GW/PC/ATF/SingleImageCard/Quad8_New_397x304._SY304_CB621721473_.jpg",
+      "headerTitle": "潮流新品研究所"
+    }
+  ],
+  "lifeProduct": [
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.cn/images/G/28/GW-desktop/OHL_wk30_379304._SY304_CB643997666_.jpg",
+      "title": "刀具馆"
+    },
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.cn/images/G/28/kindle/2019/yunying/YWPCN_20220715_379x304._SY304_CB630439775_.jpg",
+      "title": "译文经典下单售价5折"
+    },
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.cn/images/G/28/img21/hqqu/379304_V2._SY304_CB667090931_.jpg",
+      "title": "高端美肤 199元起"
+    },
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.cn/images/G/28/heyinan/2022/Event/Jul/SH_ToySports/XCM_Manual_1449041_4855600_379x304._SY304_CB631808297_.jpg",
+      "title": "暑假潮玩嘉年华"
+    }
+  ],
+  "lifeProduct2": [
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.cn/images/G/28/kindle/2019/yunying/PD22_Homepage_categorycard_379X304._SY304_CB631960120_.jpg",
+      "title": "TOP500佳作 经典必读"
+    },
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.cn/images/G/28/Yuzhe/XCM_Manual_2314691_4664543_379x304_zh_CN._SY304_CB636658846_.jpg",
+      "title": "夏季时尚焕新"
+    },
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.cn/images/G/28/amazon_global_services_ags/heyinan/2021_mix_category/XCM_CUTTLE_1437183_2378118_186x116_1X_zh_CN_PDX_PC_GW_sports_372x232._SY116_CB635609782_.jpg",
+      "title": "精选品类推荐"
+    },
+    {
+      "imgUrl": "https://images-cn.ssl-images-amazon.cn/images/G/28/AS/AGS/images/website/2022-0725-PE-379x304._SY304_CB632033594_.png",
+      "title": "亚马逊全球开店"
+    }
+  ],
+  "categoryRecommendation": [
+    {
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/heyinan/2021/Gateway/XCM_CUTTLE_1345281_1762526_CN_3943908_200x200_1X_zh_CN._CB664214294_.jpg",
+      "title": "品类推荐"
+    },
+    {
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/CN-hq/2021/img/Amazon_Global_Services_AGS/XCM_CUTTLE_1345566_1763667_CN_3945701_200x200_1X_zh_CN._CB664074478_.jpg",
+      "title": ""
+    },
+    {
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/CN-hq/2021/img/X_Site/XCM_Manual_ORIGIN_1315875_1624187_CN_ce_3763361_200x200_1X_zh_CN._CB657442145_.jpg",
+      "title": ""
+    },
+    {
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/CN-hq/2021/img/X_Site/XCM_Manual_ORIGIN_1315875_1624187_CN_home_3763363_200x200_1X_zh_CN._CB657442145_.jpg",
+      "title": ""
+    },
+    {
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/CN-hq/2021/img/X_Site/XCM_Manual_ORIGIN_1315875_1624187_CN_baby_3763365_200x200_1X_zh_CN._CB657442145_.jpg",
+      "title": ""
+    },
+    {
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/heyinan/2021/Gateway/XCM_CUTTLE_1345281_1762526_CN_3943908_200x200_1X_zh_CN._CB664214294_.jpg",
+      "title": ""
+    },
+    {
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/CN-hq/2021/img/Amazon_Global_Services_AGS/XCM_CUTTLE_1345570_1763674_CN_3945739_200x200_1X_zh_CN._CB664069766_.jpg",
+      "title": ""
+    },
+    {
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/heyinan/2022/Outlets_upgrade/XCM_Manual_1397368_4430017_CN_yl_outles_shortcut_200x200_2X._CB648937247_.jpg",
+      "title": ""
+    },
+    {
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/CN-hq/2021/img/X_Site/XCM_Manual_ORIGIN_1315875_1624187_CN_ags_3763355_200x200_1X_zh_CN._CB657442145_.jpg",
+      "title": ""
+    },
+    {
+      "categoryRecommendation": "https://images-cn.ssl-images-amazon.cn/images/G/28/Xiaominwang/kindle/GW_DesktopShoveler_200x200._CB657448068_.jpg",
+      "title": ""
     }
   ]
 }

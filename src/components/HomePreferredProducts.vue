@@ -1,18 +1,34 @@
 <template>
     <div class="home-preferred-products">
-        <div class="preferred-products-box" v-for="item in 8" :key="item">
-        <div class="img-box">
-            <h3>今日特惠 同步全球 天天低价</h3>
-            <img src="https://images-cn.ssl-images-amazon.cn/images/G/28/Yuzhe/GW/PC/ATF/SingleImageCard/Quad5_Deals_DOTD_397x304._SY304_CB621721473_.jpg" alt="">
-            <div>查看详情</div>
+        <div class="preferred-products-box" v-for="item in productCard" :key="item.PreferredProducts">
+          <div class="img-box">
+              <h3>{{item.headerTitle}}</h3>
+              <img :src="item.PreferredProducts" alt="">
+              <div>查看详情</div>
+          </div>
         </div>
+        <div class="preferred-products-box" v-for="item in lifeProduct" :key="item.imgUrl">
+          <div class="img-box">
+              <h3>{{item.title}}</h3>
+              <img :src="item.imgUrl" alt="">
+              <div>查看详情</div>
+          </div>
+        </div>
+        <div class="preferred-products-box" v-for="item in lifeProduct2" :key="item.imgUrl">
+          <div class="img-box">
+              <h3>{{item.title}}</h3>
+              <img :src="item.imgUrl" alt="">
+              <div>查看详情</div>
+          </div>
         </div>
     </div>
 </template>
 
 <script>
+
 export default {
-  name: 'HomePreferredProducts'
+  name: 'HomePreferredProducts',
+  props: ['productCard', 'lifeProduct', 'lifeProduct2']
 }
 </script>
 

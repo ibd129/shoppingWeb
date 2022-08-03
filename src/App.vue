@@ -12,17 +12,17 @@
 }
 *{
   margin: 0;
+  scroll-behavior: smooth;
+  text-decoration: none;
 }
 body{
   background-color: #eaeded;
 }
 nav {
   padding: 30px;
-
   a {
     font-weight: bold;
     color: #2c3e50;
-
     &.router-link-exact-active {
       color: #42b983;
     }
