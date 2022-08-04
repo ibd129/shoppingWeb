@@ -13,7 +13,7 @@
           >
             <template #prepend>
               <el-select v-model="select" placeholder="全部分类" style="width: 115px; height:40px">
-                <el-option v-for="item in options" :key="item.value" :label="item.label" :value="item.value" />
+                <el-option v-for="item in categoryOptions" :key="item.value" :label="item.label" :value="item.value" />
               </el-select>
             </template>
             <template #append>
@@ -50,7 +50,7 @@
 import { ref } from 'vue'
 export default {
   name: 'TopLab',
-  props: ['options'],
+  props: ['categoryOptions'],
   setup () {
     const visible = ref(false)
     return {

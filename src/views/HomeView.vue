@@ -1,7 +1,5 @@
 <template>
   <div class="home">
-    <TopLab :options="data.options"/>
-    <HomeMenu :options="data.options"/>
     <div class="home-main">
       <el-carousel :interval="5000" arrow="always" height="600px" indicator-position="none">
         <el-carousel-item v-for="item in data.imgUrl" :key="item.imageUrl">
@@ -28,26 +26,19 @@
     <HomePreferredProducts class="today"/>
     <HomeCategoryRecommendation :guessYouLike='data.guessYouLike'/>
   </div>
-  <Footer/>
 </template>
 
 <script>
 // @ is an alias to /src
-import TopLab from '../components/TopLab.vue'
-import HomeMenu from '../components/HomeMenu.vue'
 import HomePreferredProducts from '../components/HomePreferredProducts.vue'
 import HomeCategoryRecommendation from '../components/HomeCategoryRecommendation.vue'
 import { onMounted, reactive } from '@vue/runtime-core'
 import request from '../utils/request'
-import Footer from '../components/Footer.vue'
 export default {
   name: 'HomeView',
   components: {
-    TopLab,
-    HomeMenu,
     HomePreferredProducts,
-    HomeCategoryRecommendation,
-    Footer
+    HomeCategoryRecommendation
   },
   setup () {
     const data = reactive({
@@ -58,7 +49,7 @@ export default {
       categoryRecommendation: [],
       treasureOfZhendian: [],
       guessYouLike: [],
-      options: []
+      categoryOptions: []
     })
     onMounted(() => {
       request({

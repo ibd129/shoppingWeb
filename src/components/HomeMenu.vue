@@ -53,7 +53,7 @@
             <span>全部商品分类</span>
           </template>
         </el-sub-menu>
-        <el-menu-item v-for="item in options.slice(0,4)" :key="item.value" :index="item.value">
+        <el-menu-item v-for="item in categoryOptions.slice(0,4)" :key="item.value" :index="item.value">
           <span>{{item.label}}</span>
         </el-menu-item>
         <div class="demo-collapse">
@@ -61,7 +61,7 @@
             <el-collapse-item title="查看所有" name="1">
             </el-collapse-item>
           </el-collapse>
-          <el-menu-item v-show="isHidden" v-for="item in options.slice(5)" :key="item.value" :index="item.value">
+          <el-menu-item v-show="isHidden" v-for="item in categoryOptions.slice(5)" :key="item.value" :index="item.value">
                 <span>{{item.label}}</span>
           </el-menu-item>
           <el-collapse v-model="activeName" accordion v-show="isHidden" @click="isHidden = !isHidden">
@@ -101,7 +101,7 @@
 import { ref } from 'vue'
 export default {
   name: 'HomeMenu',
-  props: ['options'],
+  props: ['categoryOptions'],
   setup () {
     const drawer = ref(false)
     const innerDrawer = ref(false)

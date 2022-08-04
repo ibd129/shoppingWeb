@@ -77,7 +77,7 @@ export default {
 .footer{
    .navBackTop{
         background-color: #37475a;
-        height: 64px;
+        height: 40px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -90,10 +90,10 @@ export default {
    }
    .navAbout{
     background-color: #232f3e;
-    height: 188px;
+    height: 148px;
     display: flex;
     justify-content: space-evenly;
-    padding: 30px;
+    padding: 20px;
     border-bottom: white solid 1px;
     div{
         display: flex;
@@ -110,7 +110,7 @@ export default {
     }
    }
    .navRegion{
-    height: 150px;
+    height: 130px;
     background-color: #232f3e;
     img{
         width: 100px;
@@ -126,7 +126,7 @@ export default {
     }
    }
    .VersionNumber{
-    height: 165px;
+    height: 140px;
     background-color: #131a22;
     font-size: 12px;
     div a:nth-child(1){
@@ -144,7 +144,7 @@ export default {
         align-items: center;
         color: white;
         text-indent: 1rem;
-        padding: 15px;
+        padding: 10px;
     }
    }
 }
