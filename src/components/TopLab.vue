@@ -22,20 +22,18 @@
           </el-input>
         </div>
     </div>
-    <div class="login func-entry hoverBorder">
-      <div style="display: flex; align-items: center">
-        <el-popover placement="bottom" :width="400" trigger="click">
-          <template #reference>
-            <span class="row-top"><el-button>你好，登录</el-button></span>
-            <span class="row-bottom"><el-button>账户及列表</el-button></span>
-          </template>
-        </el-popover>
+    <router-link to="login">
+      <div class="login func-entry hoverBorder">
+          <span class="row-top">你好，登录</span>
+          <span class="row-bottom">账户及列表</span>
       </div>
-    </div>
-    <div class="order func-entry hoverBorder">
-      <span class="row-top">退货</span>
-      <span class="row-bottom">与我的订单</span>
-    </div>
+    </router-link>
+    <router-link to="order">
+      <div class="order func-entry hoverBorder">
+        <span class="row-top">退货</span>
+        <span class="row-bottom">与我的订单</span>
+      </div>
+    </router-link>
     <div class="cart hoverBorder">
       <div class="cart-count-container">
         <span class="cart-count">0</span>
@@ -121,5 +119,4 @@ export default {
     height: 55px;
   }
 }
-
 </style>

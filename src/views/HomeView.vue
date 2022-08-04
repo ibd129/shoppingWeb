@@ -135,4 +135,7 @@ export default {
   border-radius: 3px;
   padding: 1px;
   }
+  a{
+    color: white;
+  }
 </style>
