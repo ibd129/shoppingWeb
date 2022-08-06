@@ -24,7 +24,7 @@
     </div>
     <router-link to="login">
       <div class="login func-entry hoverBorder">
-          <span class="row-top">你好，登录</span>
+          <span class="row-top">你好，{{token ? token : '登录'}}</span>
           <span class="row-bottom">账户及列表</span>
       </div>
     </router-link>
@@ -53,8 +53,11 @@ export default {
   props: ['categoryOptions'],
   setup () {
     const visible = ref(false)
+    const token = localStorage.getItem('token')
+    console.log(token)
     return {
-      visible
+      visible,
+      token
     }
   }
 }

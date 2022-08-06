@@ -23,7 +23,8 @@ export default {
   setup () {
     const router = useRouter()
     const data = reactive({
-      categoryOptions: []
+      categoryOptions: [],
+      userInfo: []
     })
     const isNav = ref(true)
     onMounted(() => {
@@ -33,9 +34,14 @@ export default {
       }).then(res => {
         data.categoryOptions = res.data
       })
+      request({
+        method: 'get',
+        url: '/userInfo'
+      }).then(res => {
+        data.userInfo = res.data
+      })
     })
     onUpdated(() => {
-      console.log(router.currentRoute._value)
       if (router.currentRoute._value.path === '/login' ||
       router.currentRoute._value.path === '/register' ||
       router.currentRoute._value.path === '/forgotpassword') {

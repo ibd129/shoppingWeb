@@ -251,6 +251,32 @@
       "value": 31
     }
   ],
+  "userInfo": [
+    {
+      "username": "张三",
+      "password": "333333",
+      "id": 1,
+      "email": "333333@qq.com"
+    },
+    {
+      "username": "李四",
+      "password": 333333,
+      "id": 2,
+      "email": "444444@qq.com"
+    },
+    {
+      "username": "王五",
+      "password": 333333,
+      "id": 3,
+      "email": "555555@qq.com"
+    },
+    {
+      "username": "赵六",
+      "password": 333333,
+      "id": 4,
+      "email": "666666@qq.com"
+    }
+  ],
   "PreferredProducts": [
     {
       "PreferredProducts": "https://images-cn.ssl-images-amazon.cn/images/G/28/Yuzhe/GW/PC/ATF/SingleImageCard/Quad4_Deals_Coupon_186x116._SY116_CB621720691_.jpg",
