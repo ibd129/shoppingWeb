@@ -23,17 +23,10 @@ export default {
   setup () {
     const router = useRouter()
     const data = reactive({
-      categoryOptions: [],
       userInfo: []
     })
     const isNav = ref(true)
     onMounted(() => {
-      request({
-        method: 'get',
-        url: '/AllCategories'
-      }).then(res => {
-        data.categoryOptions = res.data
-      })
       request({
         method: 'get',
         url: '/userInfo'

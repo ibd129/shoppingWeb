@@ -12,8 +12,8 @@
             style="width: 70vw; height:40px"
           >
             <template #prepend>
-              <el-select v-model="select" placeholder="全部分类" style="width: 115px; height:40px">
-                <el-option v-for="item in categoryOptions" :key="item.value" :label="item.label" :value="item.value" />
+              <el-select v-model="data.categoryOptions.label" placeholder="全部分类" style="width: 115px; height:40px">
+                <el-option v-for="item in data.categoryOptions" :key="item.value" :label="item.label" :value="item.value" />
               </el-select>
             </template>
             <template #append>
@@ -25,7 +25,7 @@
     <router-link to="login">
       <div class="login func-entry hoverBorder">
           <span class="row-top">你好，{{token ? token : '登录'}}</span>
-          <span class="row-bottom">账户及列表</span>
+          <span class="row-bottom">{{token ? '退出登录' : '账户及列表'}}</span>
       </div>
     </router-link>
     <router-link to="order">
@@ -47,17 +47,30 @@
 </template>
 
 <script>
-import { ref } from 'vue'
+import { reactive, ref, onMounted } from 'vue'
+import request from '@/utils/request'
 export default {
   name: 'TopLab',
   props: ['categoryOptions'],
   setup () {
     const visible = ref(false)
     const token = localStorage.getItem('token')
+    const data = reactive({
+      categoryOptions: []
+    })
+    onMounted(() => {
+      request({
+        method: 'get',
+        url: '/AllCategories'
+      }).then(res => {
+        data.categoryOptions = res.data
+      })
+    })
     console.log(token)
     return {
       visible,
-      token
+      token,
+      data
     }
   }
 }
